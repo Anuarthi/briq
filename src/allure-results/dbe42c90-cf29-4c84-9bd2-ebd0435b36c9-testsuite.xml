@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621270703260' stop='1621270720839'>
+    <name>Protractor Demo App</name>
+    <title>Protractor Demo App</title>
+    <test-cases>
+        <test-case start='1621270703260' status='passed' stop='1621270710140'>
+            <name>should have a title "Opening a new window"</name>
+            <title>should have a title "Opening a new window"</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1621270710140' status='passed' stop='1621270720838'>
+            <name>should open a new window</name>
+            <title>should open a new window</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
